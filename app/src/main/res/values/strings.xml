@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="nim">NIM : </string>
+    <string name="nimdeveloper">00000028046</string>
+    <string name="nama">Nama : </string>
+    <string name="namadeveloper">Aldo Saputra Wijaya</string>
+    <string name="kelas">Kelas : </string>
+    <string name="kodekelas">FL</string>
+    <string name="referensi">Referensi :</string>
+    <string name="attempts">Attempts Remaining: 5 </string>
+    <string name="input_text_hint">password </string>
+    <string name="login">Login</string>
+    <string name="attempts_remaining_5">Attempts Remaining: 5</string>
+    <string name="enter_name">Username</string>
+    <string name="name_music">Coocaa Music</string>
+</resources>
